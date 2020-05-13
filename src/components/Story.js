@@ -1,4 +1,4 @@
-import React from "react"
+simport React from "react"
 import styled from "styled-components"
 import { useStaticQuery, graphql } from "gatsby"
 import Img from "gatsby-image"
@@ -116,7 +116,7 @@ const Story = () => {
         <p>
           Our restaurant was founded in 1986, and since then we provide our
           visitors with the best American, Portuguese and Spanish dishes made
-          from the the freshest fruits and vegetables, the finest meats, seafood
+          from the the freshest ingredients, the finest meats, seafood
           and poultry. Don’t hesitate to come and enjoy our meals!
         </p>
       </div>
