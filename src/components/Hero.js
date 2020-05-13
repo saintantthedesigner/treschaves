@@ -119,8 +119,8 @@ const Hero = () => {
         alt="logo"
         className="hero-img"
       /> */}
-      <h2>Tree Chaves Resturant</h2>
-      <h1>The perfect place to enjoy the life and food.</h1>
+      <h2>Tres Chaves Resturant</h2>
+      <h1>The perfect place to enjoy great food and great people.</h1>
       <div className="flex-container">
         <div className="flex-item">
           <h6>ADDRESS</h6>
