@@ -166,7 +166,7 @@ function Contact() {
           <img src={require("../images/2.png")} className="icon" />
         </a>
         <a
-          href="https://www.doordash.com/merchant/summary?store_id=117761"
+          href="https://www.doordash.com/store/tres-chaves-restaurant-yonkers-117761/en-US"
           target="_blank"
           rel="nofollow noopener noreferrer"
         >
