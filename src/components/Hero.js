@@ -4,6 +4,7 @@ import styled from "styled-components"
 // import Img from "gatsby-image"
 
 const Container = styled.div`
+background: #171c22;
   width: 100%;
   min-height: 100vh;
   background-image: url(${require("../images/bg.jpg")});
