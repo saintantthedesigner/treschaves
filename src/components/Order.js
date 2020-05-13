@@ -85,6 +85,23 @@ const Container = styled.div`
       }
     }
   }
+  .icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 3em;
+  }
+  .icon {
+    width: 64px;
+    height: 64px;
+    margin: 0em 0.5em;
+    margin-bottom: 1.5em;
+    cursor: pointer;
+    transition: all 0.5s;
+  }
+  #icon-3 {
+    width: 60px;
+    height: 60px;
+  }
   @media only screen and (max-width: 1035px) {
     padding-left: 10px;
   }
@@ -140,86 +157,29 @@ function Contact() {
   return (
     <Container id="order">
       <h2>Order Now</h2>
-      <form
-        name="order"
-        method="POST"
-        data-netlify="true"
-        data-netlify-honeypot="bot-field"
-        className="email-form"
-        onSubmit={handleSubmit}
-      >
-        <input type="hidden" name="form-name" value="order" />
-        <div className="inputs">
-          <label htmlFor="name">Name</label>
-          <input
-            type="text"
-            name="name"
-            id="name"
-            placeholder="Name"
-            className="form-input"
-            required
-            value={contact.name}
-            onChange={e => {
-              const val = e.target.value
-              setState(prevState => {
-                return { ...prevState, name: val }
-              })
-            }}
-          />
-          <label htmlFor="phone">Phone</label>
-          <input
-            type="text"
-            name="phone"
-            id="phone"
-            placeholder="Phone"
-            className="form-input"
-            required
-            value={contact.phone}
-            onChange={e => {
-              const val = e.target.value
-              setState(prevState => {
-                return { ...prevState, phone: val }
-              })
-            }}
-          />
-          <label htmlFor="address">Address</label>
-          <input
-            type="text"
-            name="address"
-            id="address"
-            placeholder="Address"
-            className="form-input full-width"
-            required
-            value={contact.address}
-            onChange={e => {
-              const val = e.target.value
-              setState(prevState => {
-                return { ...prevState, address: val }
-              })
-            }}
-          />
-          <label htmlFor="order">Order</label>
-          <textarea
-            type="text"
-            name="order"
-            id="order"
-            className="form-input"
-            placeholder="Write your order in here"
-            value={contact.order}
-            required
-            onChange={e => {
-              const val = e.target.value
-              setState(prevState => {
-                return { ...prevState, order: val }
-              })
-            }}
-          />
-        </div>
-        <button type="submit" id="submit">
-          Order Now
-        </button>
-        <Popup type={popupState} setPopup={setPopup} />
-      </form>
+      <div className="icons">
+        <a
+          href="https://www.ubereats.com/nyc-suburbs/food-delivery/tres-chaves-restaurant/7-fVRfCpRneR-HjRb14o9g"
+          target="_blank"
+          rel="nofollow noopener noreferrer"
+        >
+          <img src={require("../images/2.png")} className="icon" />
+        </a>
+        <a
+          href="https://www.doordash.com/merchant/summary?store_id=117761"
+          target="_blank"
+          rel="nofollow noopener noreferrer"
+        >
+          <img src={require("../images/3.png")} className="icon" />
+        </a>
+        <a
+          href="https://www.grubhub.com/restaurant/tres-chaves-restaurant-44-orchard-st-yonkers/2062606"
+          target="_blank"
+          rel="nofollow noopener noreferrer"
+        >
+          <img src={require("../images/1.png")} className="icon" id="icon-3" />
+        </a>
+      </div>
     </Container>
   )
 }
