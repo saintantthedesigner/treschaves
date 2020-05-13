@@ -6,7 +6,7 @@ import styled from "styled-components"
 const Container = styled.div`
   width: 100%;
   min-height: 100vh;
-  background-image: url(${require("../images/bg.webp")});
+  background-image: url(${require("../images/bg.jpg")});
   background-position: center;
   background-size: cover;
   display: flex;
