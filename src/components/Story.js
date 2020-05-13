@@ -117,7 +117,7 @@ const Story = () => {
           Our restaurant was founded in 1986, and since then we provide our
           visitors with the best American, Portuguese and Spanish dishes made
           from the the freshest ingredients, the finest meats, seafood
-          and poultry. Don’t hesitate to come and enjoy our meals!
+          and poultry. Do not hesitate to come and enjoy our meals!
         </p>
       </div>
       <div className="imgs">
