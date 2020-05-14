@@ -129,7 +129,7 @@ const Hero = () => {
         </div>
         <div className="flex-item ">
           <h6>BOOK ONLINE</h6>
-          <p>Call: 914-969-9128 or 914-969-1458</p>
+          <p></p>
           <div className="icons">
             <a
               href="https://www.grubhub.com/restaurant/tres-chaves-restaurant-44-orchard-st-yonkers/2062606"
