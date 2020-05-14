@@ -101,7 +101,7 @@ const Menu = () => {
     <Container>
       <div className="text" id="menu">
         <h1>DISCOVER OUR MENU</h1>
-        <h4>The perfect place to enjoy the life and food.</h4>
+        <h4>Offering a variety of delicious choices</h4>
       </div>
       <div className="menu">
         <div className="menu-item">
