@@ -47,7 +47,7 @@ function Footer() {
           © 2020 <span className="name">TresChaves</span>. All rights reserved
         </div>
         <div className="footer-item">
-          Developed By <span className="name">MBK</span>
+          Developed By <span className="name">CHAVESBROSSTUDIOS</span>
         </div>
       </div>
     </Container>
