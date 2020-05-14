@@ -124,11 +124,11 @@ const Hero = () => {
       <h1>The perfect place to enjoy great food and great people.</h1>
       <div className="flex-container">
         <div className="flex-item">
-          <h6>ADDRESS</h6>
-          <p>44 Orchard St Yonkers, NY 10703</p>
+          <h6>CALL FOR PICKUP</h6>
+          <p>914-969-9128 OR 914-969-1458</p>
         </div>
         <div className="flex-item ">
-          <h6>BOOK ONLINE</h6>
+          <h6>ORDER NOW</h6>
           <p></p>
           <div className="icons">
             <a
@@ -155,7 +155,7 @@ const Hero = () => {
           </div>
         </div>
         <div className="flex-item">
-          <h6>OPENING HOURS</h6>
+          <h6>HOURS</h6>
           <p>11:30 Am - 8:00 Pm</p>
         </div>
       </div>
