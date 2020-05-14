@@ -80,7 +80,7 @@ const Gallery = () => {
     <Container>
       <div className="text" id="gallery">
         <h1>DISCOVER OUR Gallery</h1>
-        <h5>The perfect place to enjoy the life and food.</h5>
+        <h5>Take a look at some of our most popular dishes.</h5>
       </div>
       <div className="imgs">
         {data.allFile.edges.map((node, index) => (
