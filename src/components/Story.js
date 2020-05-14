@@ -112,10 +112,10 @@ const Story = () => {
     <Container>
       <div className="text" id="story">
         <h1>DISCOVER OUR STORY</h1>
-        <h5>The perfect place to enjoy the life and food.</h5>
+        <h5>The perfect place to enjoy great food.</h5>
         <p>
           Our restaurant was founded in 1986, and since then we provide our
-          visitors with the best American, Portuguese and Spanish dishes made
+          visitors with the best Portuguese and Spanish dishes made
           from the the freshest ingredients, the finest meats, seafood
           and poultry. Do not hesitate to come and enjoy our meals!
         </p>
