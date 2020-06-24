@@ -118,6 +118,7 @@ const Story = () => {
           visitors with the best Portuguese and Spanish dishes made
           from the the freshest ingredients, the finest meats, seafood
           and poultry. Do not hesitate to come and enjoy our meals!
+    Serving our community for over 30 years.
         </p>
       </div>
       <div className="imgs">
