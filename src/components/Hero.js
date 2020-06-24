@@ -120,7 +120,7 @@ const Hero = () => {
         alt="logo"
         className="hero-img"
       /> */}
-      <h2>Tres Chaves Resturant</h2>
+      <h2>Tres Chaves Restaurant</h2>
       <h1>44 Orchard Street Yonkers, NY 10703</h1>
       <div className="flex-container">
         <div className="flex-item">
