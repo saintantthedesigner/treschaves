@@ -120,6 +120,27 @@ const Menu = () => {
         </div>
         <div className="menu-item">
           <div className="menu-item-inside">
+            <h6>Pork & Clams for Two</h6>
+            <p>Pork Cubes Stir-Fried w/ clams and Fried Cube Potatoes</p>
+          </div>
+          <h5>$25</h5>
+        </div>
+        <div className="menu-item">
+          <div className="menu-item-inside">
+            <h6>Pork & Clams for Two</h6>
+            <p>Pork Cubes Stir-Fried w/ clams and Fried Cube Potatoes</p>
+          </div>
+          <h5>$25</h5>
+        </div>
+        <div className="menu-item">
+          <div className="menu-item-inside">
+            <h6>Pork & Clams for Two</h6>
+            <p>Pork Cubes Stir-Fried w/ clams and Fried Cube Potatoes</p>
+          </div>
+          <h5>$25</h5>
+        </div>
+        <div className="menu-item">
+          <div className="menu-item-inside">
             <h6>Grilled Portuguese Sausage</h6>
             <p>Smoked Grilled Portuguese Sausage</p>
           </div>
