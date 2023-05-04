@@ -109,49 +109,49 @@ const Menu = () => {
             <h6>Whole Grilled Chicken</h6>
             <p>Charcoal Grilled Chicken (Bone in)</p>
           </div>
-          <h5>$14</h5>
+          <h5></h5>
         </div>
         <div className="menu-item">
           <div className="menu-item-inside">
             <h6>Pork & Clams for Two</h6>
             <p>Pork Cubes Stir-Fried w/ clams and Fried Cube Potatoes</p>
           </div>
-          <h5>$25</h5>
+          <h5></h5>
         </div>
         <div className="menu-item">
           <div className="menu-item-inside">
             <h6>Pork & Clams for Two</h6>
             <p>Pork Cubes Stir-Fried w/ clams and Fried Cube Potatoes</p>
           </div>
-          <h5>$25</h5>
+          <h5></h5>
         </div>
         <div className="menu-item">
           <div className="menu-item-inside">
             <h6>Pork & Clams for Two</h6>
             <p>Pork Cubes Stir-Fried w/ clams and Fried Cube Potatoes</p>
           </div>
-          <h5>$25</h5>
+          <h5></h5>
         </div>
         <div className="menu-item">
           <div className="menu-item-inside">
             <h6>Pork & Clams for Two</h6>
             <p>Pork Cubes Stir-Fried w/ clams and Fried Cube Potatoes</p>
           </div>
-          <h5>$25</h5>
+          <h5></h5>
         </div>
         <div className="menu-item">
           <div className="menu-item-inside">
             <h6>Grilled Portuguese Sausage</h6>
             <p>Smoked Grilled Portuguese Sausage</p>
           </div>
-          <h5>$16</h5>
+          <h5></h5>
         </div>
         <div className="menu-item">
           <div className="menu-item-inside">
             <h6>Whole Chicken in Garlic Sauce</h6>
             <p>Pan Fried Chicken (Bone in) in Garlic Sauce</p>
           </div>
-          <h5>$14</h5>
+          <h5></h5>
         </div>
         <div className="menu-item">
           <div className="menu-item-inside">
@@ -161,56 +161,56 @@ const Menu = () => {
               Garlic Sauce.
             </p>
           </div>
-          <h5>$25</h5>
+          <h5></h5>
         </div>
         <div className="menu-item">
           <div className="menu-item-inside">
             <h6>Shrimp in Garlic Sauce</h6>
             <p>Baby Shrimp Saute in a Garlic Sauce</p>
           </div>
-          <h5>$16</h5>
+          <h5></h5>
         </div>
         <div className="menu-item">
           <div className="menu-item-inside">
             <h6>Clams in Garlic Sauce</h6>
             <p>Clams in a Garlic and White Wine Sauce w/ Cilantro</p>
           </div>
-          <h5>$16</h5>
+          <h5></h5>
         </div>
         <div className="menu-item">
           <div className="menu-item-inside">
             <h6>Whole Chicken in Garlic Sauce</h6>
             <p>Pan Fried Chicken (Bone in) in Garlic Sauce</p>
           </div>
-          <h5>$14</h5>
+          <h5></h5>
         </div>
         <div className="menu-item">
           <div className="menu-item-inside">
             <h6>Grilled Shell Steak</h6>
             <p>Grilled Juice Shell Steak Cooked at Your Taste</p>
           </div>
-          <h5>$21</h5>
+          <h5></h5>
         </div>
         <div className="menu-item">
           <div className="menu-item-inside">
             <h6>Paelha</h6>
             <p>Seafood combination in yellow rice for two</p>
           </div>
-          <h5>$40</h5>
+          <h5></h5>
         </div>
         <div className="menu-item">
           <div className="menu-item-inside">
             <h6>Mariscada</h6>
             <p>Seafood combination in tomato sauce for two.</p>
           </div>
-          <h5>$40</h5>
+          <h5></h5>
         </div>
         <div className="menu-item">
           <div className="menu-item-inside">
             <h6>Grilled Codfish</h6>
             <p>With potatoes, onions, and peppers in olive oil.</p>
           </div>
-          <h5>$22.5</h5>
+          <h5></h5>
         </div>
         <div className="menu-item">
           <div className="menu-item-inside">
@@ -220,7 +220,7 @@ const Menu = () => {
               Garlic Sauce.
             </p>
           </div>
-          <h5>$25</h5>
+          <h5></h5>
         </div>
         <div className="menu-item">
           <div className="menu-item-inside">
@@ -230,7 +230,7 @@ const Menu = () => {
               and salad
             </p>
           </div>
-          <h5>$20</h5>
+          <h5></h5>
         </div>
         <div className="menu-item">
           <div className="menu-item-inside">
@@ -240,7 +240,7 @@ const Menu = () => {
               and salad.
             </p>
           </div>
-          <h5>$38</h5>
+          <h5></h5>
         </div>
       </div>
     </Container>
