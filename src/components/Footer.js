@@ -44,7 +44,7 @@ function Footer() {
     <Container>
       <div className="site-foot-nav container">
         <div className="site-foot-nav-left footer-item">
-          © 2020 <span className="name">TresChaves</span>. All rights reserved
+          © 2026 <span className="name">TresChaves</span>. All rights reserved
         </div>
         <div className="footer-item">
           Developed By <span className="name">ChavesBrosStudios</span>
